@@ -21,13 +21,5 @@ Go to [http://localhost:3000](http://localhost:3000) to view on browser.
 
 Fork backend codebase and follow instructions for setting up. 
 
-Note: You will need to create an AWS account to populate the following fields in the .env
-
-## Env Variables
-AWS_BUCKET_NAME=""  
-AWS_BUCKET_REGION=""  
-AWS_ACCESS_KEY=""  
-AWS_SECRET_KEY=""  
-
 ### React design
 ![image](/public/react-design.png)
