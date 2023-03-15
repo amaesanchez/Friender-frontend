@@ -1,13 +1,14 @@
 # Getting Started with Friender)
 
-Deployed on: https://friender-adventure.onrender.com/
+Deployed on: https://friender-ams.surge.sh/  
+Username: guest  
+Password: password  
 
 To access Friender backend codebase: https://github.com/amaesanchez/Friender-backend
 
 ### To run app locally
 
 Fork backend codebase and follow instructions for setting up. 
-
 
 Then on this directory,  
 `npm i`  
