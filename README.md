@@ -29,5 +29,6 @@ Fork backend codebase and follow instructions for setting up.
 
 ## TODO
 
-- [ ] Design more detailed application dashboard.
-- [ ] Add tests.
+- [ ] Implement instant messaging with matches
+- [ ] Add OAuth login feature
+- [ ] Add tests
