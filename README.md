@@ -17,7 +17,7 @@ To access backend codebase: https://github.com/amaesanchez/Friender-backend
 
     ```
     npm install
-    node server.js
+    npm start
     ```
     
 Go to [http://localhost:3000](http://localhost:3000) to view on browser.
