@@ -1,7 +1,7 @@
 # Friender (frontend)
 Social platform for finding new friends within a customized radius.
 
-**Takes ~10 secs upon login to load authorized features**
+**Takes ~10 secs upon login to load authorized features**  
 Deployed on: https://friender-ams.surge.sh/  
 **Username: guest  
 Password: password**  
